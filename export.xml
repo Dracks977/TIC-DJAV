@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Carnet>
+  <Users>
+    <User>
+      <FirstName>jean</FirstName>
+      <LastName>paul</LastName>
+      <Items>
+        <Item>
+          <PDate>Fri Mar 17 09:05:50 CET 2017</PDate>
+          <Name>Comment manger des fruit</Name>
+          <Type>livre</Type>
+        </Item>
+        <Item>
+          <PDate>Fri Mar 17 09:05:50 CET 2017</PDate>
+          <Name>La vie animale</Name>
+          <Type>dvd</Type>
+        </Item>
+      </Items>
+    </User>
+    <User>
+      <FirstName>nono</FirstName>
+      <LastName>rose</LastName>
+      <Items>
+        <Item>
+          <PDate>Fri Mar 17 09:05:50 CET 2017</PDate>
+          <Name>Devenire une baleine</Name>
+          <Type>documentaire</Type>
+        </Item>
+      </Items>
+    </User>
+    <User>
+      <FirstName>sardoche</FirstName>
+      <LastName>sel</LastName>
+      <Items>
+        <Item>
+          <PDate>Fri Mar 17 09:05:50 CET 2017</PDate>
+          <Name>Etre dans la galerie aAa</Name>
+          <Type>Livre</Type>
+        </Item>
+        <Item>
+          <PDate>Fri Mar 17 09:05:50 CET 2017</PDate>
+          <Name>le E-sport pour les null</Name>
+          <Type>livre</Type>
+        </Item>
+      </Items>
+    </User>
+    <User>
+      <FirstName>bernard</FirstName>
+      <LastName>grand</LastName>
+      <Items />
+    </User>
+    <User>
+      <FirstName>bonne</FirstName>
+      <LastName>notes</LastName>
+      <Items>
+        <Item>
+          <PDate>Fri Mar 17 09:05:50 CET 2017</PDate>
+          <Name>avoir une bonne note</Name>
+          <Type>dvd</Type>
+        </Item>
+      </Items>
+    </User>
+  </Users>
+</Carnet>
+
